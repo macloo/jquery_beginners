@@ -22,3 +22,5 @@ The last exercise (6) uses a different HTML file, but the same CSS and JS files:
 + scripts/myjquery.js
 
 This represents a photo gallery that can be built using only the information from parts 1-3 in the Try jQuery course. The students will need some encouragement to deconstruct the code and figure out how it works.
+
+This basic (and flawed) photo gallery is enhanced in the repo [jQuery Photo Gallery](https://github.com/macloo/jquery-photo-gallery).
