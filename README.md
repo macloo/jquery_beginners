@@ -1,7 +1,7 @@
 jQuery Beginners
 ================
 
-This small group of files is for students who have just started learning jQuery (in a course for journalism students). It follows their out-of-class use of Code School's free [Try jQuery](http://try.jquery.com/) course, parts 1-3 of 5 parts. So the code does not include anything other than what is taught in those first three modules.
+This small group of files is for students who have just started learning jQuery (in a course for journalism students). It follows their out-of-class use of Code School's free [Try jQuery](http://try.jquery.com/) course, parts 1-3 of 5 parts. So the code does not include anything other than what is taught in those first three modules. Students should download the complete repo here and use the files on their own computer.
 
 These exercises go along with a PowerPoint, [Beginning jQuery](http://www.slideshare.net/macloo/j-query-review1), in which I go over some background about jQuery and also review the concepts from the three Code School modules.
 
@@ -40,7 +40,7 @@ These files demonstrate how we use some common jQuery functions for adding new e
 
 ## A sortable tables example
 
-These files are taken from a JavaScript book and provide a simple, clear example of using [tablesorter.js](http://tablesorter.com/docs/), a jQuery plugin, to make a table both beautiful and interactive.
+These files are taken from a JavaScript book and provide a simple, clear example of using [tablesorter.js](http://tablesorter.com/docs/), a jQuery plugin, to make a table both beautiful and interactive. (This goes way beyond the Code School tutorials 1-3, but it's a great example of why learning jQuery is so worth it.)
 
 + script05.html
 + styles/script04.css
